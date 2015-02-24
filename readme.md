@@ -1,4 +1,4 @@
-This repo has files to a database that was fetched from a suggestion portal at the [Department of Transportation's website](http://nycbikeshare.herokuapp.com/page/about). It has data from the time the portal was set up, until 12th November 2014.
+This repo has files to a database that was fetched from a suggestion portal at the [Department of Transportation's website](http://nycbikeshare.herokuapp.com/page/about). The portal allows people to submit requests for Citi Bike stations in New York City. The department then pairs this with demographic data and few other factors before deciding where new Citibike stations should be set up. This repo has data from the time the portal was set up, until 12th November 2014.
 
 Used Python to fetch the data and R to analyze it.
 
